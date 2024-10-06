@@ -6,7 +6,7 @@ html {
 
 body {
   font-family: "Roboto Mono", monospace;
-  background-image: url("/assets/images/bg.webp");
+  background-image: url("../images/bg.webp");
   display: flex;
   justify-content: center;
   align-items: center;
